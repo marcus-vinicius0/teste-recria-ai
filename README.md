@@ -238,6 +238,22 @@ O projeto foi desenvolvido com foco em:
 
 ---
 
+## Evidencias de execução
+
+docker rodando:
+[![](./evidencias/ev1.png)](./evidencias/ev1.png)
+
+fastapi:
+[![](./evidencias/ev2.png)](./evidencias/ev2.png)
+[![](./evidencias/ev3.png)](./evidencias/ev3.png)
+[![](./evidencias/ev4.png)](./evidencias/ev4.png)
+[![](./evidencias/ev5.png)](./evidencias/ev5.png)
+
+testes passaram
+[![](./evidencias/ev6.png)](./evidencias/ev6.png)
+
+
+
 ## 👨‍💻 Autor
 
 Marcus Vinícius Almeida Florêncio
